@@ -1,4 +1,4 @@
-Exploratory Data Analysis on Electric Vehicle Dataset
+# Exploratory Data Analysis on Electric Vehicle Dataset
 This project involves performing an in-depth Exploratory Data Analysis (EDA) on an Electric Vehicle (EV) dataset to gain insights into the adoption and distribution of electric vehicles across different regions, years, and manufacturers. The analysis aims to provide a comprehensive understanding of EV trends, popular makes and models, and other factors influencing electric vehicle growth.
 
 Project Overview
